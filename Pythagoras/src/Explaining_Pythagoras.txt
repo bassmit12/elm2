@@ -1,0 +1,7 @@
+Explanation of Pythagoras code
+
+1. We first define a function called sqr that takes an integer and returns the root of the given integer
+2. Next we create a function that checks if 3 integers fulfill the requirements to be a Pythagorean triple. We also make sure to not use any negative of null values by checking if all given integers are bigger then 0 in the isTripleNaturalNumber function
+3. Next we create 3 functions for each of the sides of the given triangle. We do this by breaking appart the formula to create the Pythagorean triples. 
+4. After that we create a function that calculates the triple based on the 2 provided integers (length of the 2 sides)
+5. This function then checks if the 3 given integers form a Pythagorean triple
